@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Array
+|  |
+| ------- |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 <!---LeetCode Topics End-->
