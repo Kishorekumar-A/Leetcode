@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kishorekumar-A/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
