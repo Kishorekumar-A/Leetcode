@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Kishorekumar-A/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kishorekumar-A/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishorekumar-A/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Kishorekumar-A/Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
