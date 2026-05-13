@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Kishorekumar-A/Leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/Kishorekumar-A/Leetcode/tree/master/1861-rotating-the-box) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Kishorekumar-A/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
