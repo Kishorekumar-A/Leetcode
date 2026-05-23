@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishorekumar-A/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishorekumar-A/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Kishorekumar-A/Leetcode/tree/master/1861-rotating-the-box) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
