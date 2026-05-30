@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Kishorekumar-A/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kishorekumar-A/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishorekumar-A/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Design
 |  |
 | ------- |
