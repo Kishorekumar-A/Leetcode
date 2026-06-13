@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Kishorekumar-A/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kishorekumar-A/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kishorekumar-A/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
