@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2833-furthest-point-from-origin](https://github.com/Kishorekumar-A/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Tree
@@ -170,4 +174,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
