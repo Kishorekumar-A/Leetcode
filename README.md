@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Kishorekumar-A/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kishorekumar-A/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishorekumar-A/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
