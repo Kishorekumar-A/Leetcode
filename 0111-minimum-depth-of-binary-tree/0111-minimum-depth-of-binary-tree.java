@@ -18,7 +18,7 @@ class Solution {
 
     public void depth(TreeNode root, int l)
     {
-        if(root==null)
+        if(root==null||l>min)
         {
             return ;
         }
