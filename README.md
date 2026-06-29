@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Kishorekumar-A/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
