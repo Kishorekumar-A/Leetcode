@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
