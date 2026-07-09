@@ -14,25 +14,25 @@
  * }
  */
 class Solution {
-    int s=0;
+   
     // public void left(TreeNode root)
     // {
     //     if(root==null) return;
     //     left(root)
     // }
-    public void tra(TreeNode root)
+    public int tra(TreeNode root)
     {
-        if(root==null) return ;
+         int s=0;
+        if(root==null) return 0 ;
         if(root.left!=null&&root.left.left==null&&root.left.right==null)
          s+=root.left.val;
 
-        tra(root.left);
-        tra(root.right);
-        // return s;
+        s+=tra(root.left);
+       s+= tra(root.right);
+        return s;
     }
     public int sumOfLeftLeaves(TreeNode root){
-        tra(root);
-        // s-=root.val;
-        return s;
+       return tra(root);
+       
     }
 }
