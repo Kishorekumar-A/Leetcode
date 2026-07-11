@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0029-divide-two-integers) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Kishorekumar-A/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Kishorekumar-A/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Kishorekumar-A/Leetcode/tree/master/0338-counting-bits) |
 ## Memoization
