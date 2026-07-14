@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kishorekumar-A/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kishorekumar-A/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Kishorekumar-A/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishorekumar-A/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Kishorekumar-A/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
