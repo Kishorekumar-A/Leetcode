@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
+| [3200-maximum-height-of-a-triangle](https://github.com/Kishorekumar-A/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishorekumar-A/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3200-maximum-height-of-a-triangle](https://github.com/Kishorekumar-A/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Design
 |  |
