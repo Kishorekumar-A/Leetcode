@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kishorekumar-A/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
+| [0643-maximum-average-subarray-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -380,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishorekumar-A/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
