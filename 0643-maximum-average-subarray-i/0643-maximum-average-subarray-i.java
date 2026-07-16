@@ -5,7 +5,7 @@ class Solution {
        int m=sum;
        for(int i=0;i<nums.length-k;i++)
        {
-        System.out.println(sum);
+        // System.out.println(sum);
         sum-=nums[i];
         sum+=nums[k+i];
         m=Math.max(m,sum);
