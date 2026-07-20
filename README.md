@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1260-shift-2d-grid](https://github.com/Kishorekumar-A/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Kishorekumar-A/Leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishorekumar-A/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kishorekumar-A/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/Kishorekumar-A/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishorekumar-A/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Search
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Kishorekumar-A/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Kishorekumar-A/Leetcode/tree/master/1861-rotating-the-box) |
 ## Bit Manipulation
 |  |
