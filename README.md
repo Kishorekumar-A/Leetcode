@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishorekumar-A/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kishorekumar-A/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
