@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
+| [0997-find-the-town-judge](https://github.com/Kishorekumar-A/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/Kishorekumar-A/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kishorekumar-A/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Kishorekumar-A/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Kishorekumar-A/Leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Kishorekumar-A/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kishorekumar-A/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishorekumar-A/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
