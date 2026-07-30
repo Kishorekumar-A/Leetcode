@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Kishorekumar-A/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kishorekumar-A/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Kishorekumar-A/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Kishorekumar-A/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/Kishorekumar-A/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Union-Find
 |  |
 | ------- |
