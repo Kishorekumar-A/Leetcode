@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/Kishorekumar-A/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kishorekumar-A/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishorekumar-A/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kishorekumar-A/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Kishorekumar-A/Leetcode/tree/master/3200-maximum-height-of-a-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Design
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kishorekumar-A/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Kishorekumar-A/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kishorekumar-A/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
 |  |
 | ------- |
