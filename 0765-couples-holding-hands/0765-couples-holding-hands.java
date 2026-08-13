@@ -17,7 +17,7 @@ class Solution {
                 row[i+1]=row[j];
                 row[j]=t;
                 c++;
-                System.out.println(Arrays.toString(row));
+                // System.out.println(Arrays.toString(row));
             }
         }
         return c;
