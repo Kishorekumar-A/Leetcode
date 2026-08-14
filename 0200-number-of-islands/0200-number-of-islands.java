@@ -1,5 +1,5 @@
 class Solution {
-    public void find(char[][] grid,int i,int j)
+    private void find(char[][] grid,int i,int j)
     {
         Queue<int[]> q=new LinkedList();
         int n=grid.length;
