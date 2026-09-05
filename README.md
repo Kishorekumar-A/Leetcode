@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Kishorekumar-A/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Kishorekumar-A/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishorekumar-A/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/Kishorekumar-A/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Kishorekumar-A/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kishorekumar-A/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishorekumar-A/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Kishorekumar-A/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Kishorekumar-A/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kishorekumar-A/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
