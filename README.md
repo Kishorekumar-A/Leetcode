@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0029-divide-two-integers) |
 | [0396-rotate-function](https://github.com/Kishorekumar-A/Leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/Kishorekumar-A/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Kishorekumar-A/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kishorekumar-A/Leetcode/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Kishorekumar-A/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Kishorekumar-A/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Kishorekumar-A/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Kishorekumar-A/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1754-largest-merge-of-two-strings](https://github.com/Kishorekumar-A/Leetcode/tree/master/1754-largest-merge-of-two-strings) |
 | [2129-capitalize-the-title](https://github.com/Kishorekumar-A/Leetcode/tree/master/2129-capitalize-the-title) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Kishorekumar-A/Leetcode/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/Kishorekumar-A/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Kishorekumar-A/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kishorekumar-A/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
