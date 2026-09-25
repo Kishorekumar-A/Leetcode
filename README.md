@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishorekumar-A/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Kishorekumar-A/Leetcode/tree/master/0383-ransom-note) |
 | [0970-powerful-integers](https://github.com/Kishorekumar-A/Leetcode/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/Kishorekumar-A/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishorekumar-A/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/Kishorekumar-A/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Kishorekumar-A/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Kishorekumar-A/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Kishorekumar-A/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kishorekumar-A/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kishorekumar-A/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kishorekumar-A/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Kishorekumar-A/Leetcode/tree/master/0383-ransom-note) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Kishorekumar-A/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2833-furthest-point-from-origin](https://github.com/Kishorekumar-A/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
